@@ -1,5 +1,3 @@
-import javax.security.auth.PrivateCredentialPermission;
-
 public class Reverse {
     public static void main(String[] args) {
         int num = 23579;
